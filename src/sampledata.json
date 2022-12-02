@@ -1,0 +1,32 @@
+export default const tableData = [
+  {
+    id: 1,
+    course_code: "20XT12",
+    course_title: "Calculus and its application",
+    hl: 1,
+    ht: 3,
+    hp: 4,
+    credit: 0,
+    prerequsite: "NA",
+    mca: 50,
+    mfe: 50,
+    mtotal: 100,
+    cat: "BS",
+    action: true
+  },
+  {
+    id: 2,
+    course_code: "20XT12",
+    course_title: "Computer Application",
+    hl: 1,
+    ht: 3,
+    hp: 4,
+    credit: 0,
+    prerequsite: "NA",
+    mca: 50,
+    mfe: 50,
+    mtotal: 100,
+    cat: "BS",
+    action: false
+  }
+]
